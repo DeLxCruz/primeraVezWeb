@@ -1,4 +1,4 @@
-#kjnfkenejehfefe
+# kjnfkenejehfefe
 
 #<!DOCTYPE html>
 <html lang="en">
@@ -12,6 +12,6 @@
 <body>
     <h1>Santiago Lòpez</h1>
 
-    <p>Siza Mano</p>
+    <p>Siza Manin</p>
 </body>
 </html>
